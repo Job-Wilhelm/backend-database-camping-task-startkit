@@ -246,6 +246,7 @@ and
 cancelled_at is null;
 
 
+
 -- 5-6. 查詢：計算用戶王小明的購買堂數，顯示須包含以下欄位： user_id , total。 (需使用到 SUM 函式與 Group By)
 
 select 
